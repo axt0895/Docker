@@ -1,0 +1,33 @@
+[{
+    "firstName":"Anish",
+    "lastName": "Thapa",
+    "age": 25,
+    "married": false,
+    "university": "The University of Texas at Arlington",
+    "weight":142.6,
+    "areasOfInterest":["machine learning", "deep learning", "reinforcement learning"],
+    "address":{
+        "street":"1907 Sabine Pass Lane",
+        "apt":null, 
+        "zipcode": 76006,
+        "city":"Arlginton",
+        "state": "TX"
+    }
+},
+{
+    "firstName":"Deepesh",
+    "lastName":"Bashyal",
+    "age": 24,
+    "married": false,
+    "university":"The University of North Texas",
+    "weight": 137.08,
+    "address":{
+        "street": "325 Grace Circle",
+        "apt": null,
+        "zipcode": 76038,
+        "city": "Hurst",
+        "state":"TX"
+    },
+    "areasOfInterest":["Stock Market", "option Trading", "Index Funds", "Government Bonds"]
+}
+]

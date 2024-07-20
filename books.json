@@ -1,0 +1,27 @@
+[{
+    "name": "The Pragmatic Programmer",
+    "author": ["Andrew Hunt", "Thomas Rupert"],
+    "description": "This book consists of all the practical application for software developer",
+    "published": 2006,
+    "price": 34.99,
+    "available": true,
+    "reviews": {
+        "user":"The Supreme Lord", 
+        "ratings": 4.7,
+        "comments": "I really like the way author exaplins the example after each comment"
+    }
+},
+{
+    "name": "The End of Us",
+    "author": "Collen Hoover", 
+    "description": "The story is about two lovers getting separate at young age and then reuniting in later life",
+    "published": 2018,
+    "price": 18.99,
+    "bestSeller": true,
+    "info":{
+        "publishser":"The Gray Canon",
+        "location": "New York",
+        "ISBN": 123434242
+    }
+}
+]
