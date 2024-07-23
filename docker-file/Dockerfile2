@@ -1,6 +1,7 @@
-FROM node:14-alpine3.16
-WORKDIR /app
-COPY . .
+FROM node
+WORKDIR /usr/src/app
+COPY package*.json ./
 RUN npm install
-CMD ["npm", "start"]
-EXPOSE 9001
+EXPOSE 80
+ENV NODE_ENV = production
+CMD ["node", "app.js"]
